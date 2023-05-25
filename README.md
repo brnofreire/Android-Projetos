@@ -1,5 +1,6 @@
 # Android-Projetos
-Some of the projects I created with the android studio interface
+Some of the projects I created with the android studio interface.
+
 These files include only the part made in JAVA, the layouts made in xml were not uploaded!!
 <Brazilian: Estes arquivos englobam apenas a parte feita em JAVA, os layouts feitos em xml não foram feitos o upload />
 
